@@ -1,4 +1,4 @@
-module entzlogsql
+module github.com/floatyun/entzlog
 
 go 1.22
 
